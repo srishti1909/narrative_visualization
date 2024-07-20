@@ -1,4 +1,4 @@
-# Evolution of Netflix's Content: A Narrative Visualization
+# Narrative Visualization of Netflix's Content Evolution
 
 This project visualizes the evolution of Netflix's content over the years. It is divided into three scenes, each focusing on a unique aspect of the content that Netflix has produced over time.
 
